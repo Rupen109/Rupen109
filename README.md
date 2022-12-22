@@ -1,7 +1,7 @@
 -  Hi👋 I’m @Rupen109
 -  I am FullStack WebDeveloper.  Working with my hands to make magic happen on the internet.
 - 👀 I’m interested in learn new things and improve skills.
-- 🌱 I’m currently learning I’m currently learning NodeJs, ExpressJs, MongoDB.
+- 🌱 I’m currently learning NodeJs, ExpressJs, MongoDB.
 - 📫 How to reach me https://rupen-bhimani-webdeveloper.netlify.app/
 
 <!---
