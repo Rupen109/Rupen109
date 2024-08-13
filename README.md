@@ -2,7 +2,7 @@
 -  I am FullStack WebDeveloper.  Working with my hands to make magic happen on the internet.
 - 👀 I’m interested in learn new things and improve skills.
 - 🌱 I’m currently learning NodeJs, ExpressJs, MongoDB.
-- 📫 How to reach me https://rupen-bhimani-webdeveloper.netlify.app/](https://rupenbhimani.framer.website/
+- 📫 How to reach me https://rupenbhimani.framer.website/
 
 <!---
 Rupen109/Rupen109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
