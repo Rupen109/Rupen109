@@ -1,7 +1,7 @@
 -  Hi👋 I’m @Rupen109
 -  I am FullStack WebDeveloper.  Working with my hands to make magic happen on the internet.
 - 👀 I’m interested in learn new things and improve skills.
-- 🌱 TechStsck > React - Next - TypeScript - NodeJs - ExpressJs - MongoDB.
+- 🌱 TechStack > React - Next - TypeScript - NodeJs - ExpressJs - MongoDB.
 - 📫 How to reach me https://rupenbhimani.framer.website/
 
 <!---
